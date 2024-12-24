@@ -1,6 +1,2 @@
-# docker-demo
-<h1>This is fun to learn</h1>
-Using git for docker
-<br>
-I am Suraj Patil
-
+# Docker Project
+Simple JS project to generate silly names.
